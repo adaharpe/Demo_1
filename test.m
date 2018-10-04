@@ -1,2 +1,3 @@
-s = sptrintf("Hello World");
+s = sprintf("Hello World");
 print(s);
+% Edit
